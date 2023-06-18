@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm oZep</h1>
 <h3 align="center">A Computer Science Student at UOttawa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oZep&label=Profile%20views&color=0e75b6&style=flat" alt="oZep" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jjoeyissa&label=Profile%20views&color=0e75b6&style=flat" alt="oZep" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjoeyissa" alt="jjoeyissa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oZep" alt="oZep" /></a> </p>
 
 - 🔭 I’m currently working on **[A Game](https://itch.io/jam/uottawa-june-jam-2023-nature-strikes-back) for the June Game Jam hosted by the uOttawa Game Dev Club**
 

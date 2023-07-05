@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **[A Game](https://github.com/oZep/TheGivingTree) for the [June Game Jam hosted by the uOttawa Game Dev Club](https://itch.io/jam/uottawa-june-jam-2023-nature-strikes-back)**
 
-- 🌱 I’m currently learning **Typescript, C, and React.**
+- 🌱 I’m currently learning **Typescript, and React.**
 
 - 📫 How to reach me **joeyissa59@gmail.com**
 

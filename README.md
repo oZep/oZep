@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozep" alt="ozep" /></a> </p>
 
-- 🔭 I’m currently working on [A Personal Portfolio Website](https://github.com/oZep/oZep.github.io)
+- 🔭 I’m currently working on **[A Personal Portfolio Website](https://github.com/oZep/oZep.github.io)**
 
 - 😎 I’ve just finished working on **[A Game](https://github.com/oZep/TheGivingTree) for the [June Game Jam hosted by the uOttawa Game Dev Club](https://itch.io/jam/uottawa-june-jam-2023-nature-strikes-back)**
 

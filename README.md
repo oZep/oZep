@@ -5,14 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozep" alt="ozep" /></a> </p>
 
-- 🔭 I’m currently working on [A Personal Portfolio Website](https://github.com/oZep/oZep.github.io)
-
-- 😎 I’ve just finished working on **[A Game](https://github.com/oZep/TheGivingTree) for the [June Game Jam hosted by the uOttawa Game Dev Club](https://itch.io/jam/uottawa-june-jam-2023-nature-strikes-back)**
-
-- 🌱 I’m currently learning **Pygame, C# and C++**
-
-- 📫 How to reach me **[Email](joeyissa59@gmail.com)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/jjoeyissa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jjoeyissa" height="30" width="40" /></a>

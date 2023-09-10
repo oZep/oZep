@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Joey Issa</h1>
-<h3 align="center">A passionate future developer in Canada!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjoeyissa&label=Profile%20views&color=ff7575&style=plastic" alt="ozep" /> </p>
 

@@ -1,8 +1,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjoeyissa&label=Profile%20views&color=ff7575&style=plastic" alt="ozep" /> </p>
-<p align="left" style="display: none;"> 
-  <img src="https://komarev.com/ghpvc/?username=ozep&label=Profile%20views&color=ff7575&style=plastic" alt="ozep" /> 
-</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozep" alt="ozep" /></a> </p>
 

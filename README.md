@@ -1,4 +1,4 @@
-
+<div style="background: black;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjoeyissa&label=Profile%20views&color=ff7575&style=plastic" alt="ozep" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozep&row=2&column=4&theme=discord&no-frame=true&title=Commits,PullRequest,Repositories,Followers" alt="ozep" /></a> </p>
@@ -17,3 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozep&show_icons=true&theme=cobalt&bg_color=000000&hide_border=true&locale=en" alt="ozep" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozep&theme=dark" alt="ozep" /></p>
+</div>

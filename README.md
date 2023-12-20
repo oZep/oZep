@@ -1,6 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjoeyissa&label=Profile%20views&color=ff7575&style=plastic" alt="ozep" /> </p>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozep&row=2&column=4&theme=discord&no-frame=true&title=Commits,PullRequest,Repositories,Followers" alt="ozep" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>

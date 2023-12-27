@@ -80,7 +80,7 @@
 </div>
 
 ###
-<img align="center" height="200" width="1000" src="https://64.media.tumblr.com/7e832596cc4e0ec4ef50ab06d9ed84a9/9b19a01d63c06340-51/s540x810/99bd9f3eb22a1d5cef48eea497c95f4abb5210fc.gifv"  />
+<img align="center" height="200" width="900" src="https://64.media.tumblr.com/7e832596cc4e0ec4ef50ab06d9ed84a9/9b19a01d63c06340-51/s540x810/99bd9f3eb22a1d5cef48eea497c95f4abb5210fc.gifv"  />
 
 ###
 
@@ -99,8 +99,9 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/oZep/oZep/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/oZep/oZep/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 

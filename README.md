@@ -81,7 +81,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/wKWxuUOcp9fdvckBty/giphy.gif?cid=6c09b952mcb6bu05ttj6a717gqq5nvyt6jki4mvsj566mach&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
+<img align="center" height="150" src="https://media3.giphy.com/media/wKWxuUOcp9fdvckBty/giphy.gif?cid=6c09b952mcb6bu05ttj6a717gqq5nvyt6jki4mvsj566mach&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
 
 ###
 

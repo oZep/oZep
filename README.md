@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="center">Computer Vision + Network Programming + Youtuber  + Minecrafter</h2>
+<h2 align="center">Computer Vision + Network Programming + Youtube</h2>
 
 ###
 

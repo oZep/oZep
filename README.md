@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjoeyissa&label=Profile%20views&color=ff7575&style=plastic" alt="ozep" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozep&row=2&column=4&theme=discord&no-frame=true&title=Commits,PullRequest,Repositories,Followers" alt="ozep" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozep&row=2&column=4&theme=discord&no-frame=true&title=Commits,PullRequest,Repositories,Followers" alt="ozep" /></a> </p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oZep&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />

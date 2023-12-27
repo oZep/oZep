@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jjoeyissa&label=Profile%20views&color=ff7575&style=plastic" alt="ozep" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jjoeyissa&label=Profile%20views&color=blueviolet&style=plastic" alt="ozep" /> </p>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozep&row=2&column=4&theme=darkhub&no-frame=true&title=Commits,PullRequest,Repositories,Followers" alt="ozep" /></a> </p>

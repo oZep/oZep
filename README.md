@@ -97,10 +97,6 @@
 </div>
 
 ###
-<div align="center">
-  [[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=1fzm2e7sp0t65th3wyznp7lma&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
-</div>
-###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/oZep/oZep/output/snake.svg" alt="Snake animation" />

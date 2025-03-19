@@ -33,8 +33,6 @@
 <img width="12" />
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="30" alt="figma logo" />
 <img width="12" />
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/flask-icon.svg" height="30" alt="flask logo" />
-<img width="12" />
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="git logo" />
 <img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="30" alt="go logo" />

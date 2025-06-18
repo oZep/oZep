@@ -1,0 +1,37 @@
+{
+  "languages": [
+    "java",
+    "python",
+    "c",
+    "cpp",
+    "cs",
+    "go",
+    "js",
+    "php",
+    "ts",
+    "html",
+    "css"
+  ],
+  "frameworks": [
+    "react",
+    "bootstrap",
+    "tailwind",
+    "materialui",
+    "flask"
+  ],
+  "developerTools": [
+    "git",
+    "docker",
+    "jenkins",
+    "nginx",
+    "androidstudio",
+    "vscode",
+    "pycharm",
+    "anaconda",
+    "ardunio"
+  ],
+  "activelyUsingLearning": [
+    "go",
+    "vscode"
+  ]
+}

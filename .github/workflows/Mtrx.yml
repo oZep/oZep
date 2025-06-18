@@ -61,3 +61,7 @@ jobs:
           plugin_lines_sections: base
           plugin_stars: yes
           plugin_stars_limit: 4
+          plugin_topics: yes
+          plugin_topics_limit: 50
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars

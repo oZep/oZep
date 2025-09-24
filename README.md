@@ -8,6 +8,6 @@
 
 [./Computer_Vision](https://github.com/oZep/oZep/blob/main/computer-vision-proj.md)
 
-[./LLM_Breakdown]
+[./LLM_Breakdown](https://github.com/oZep/oZep/blob/main/llm-breakdown.md)
 
 [./Web_Dev]

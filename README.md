@@ -4,10 +4,10 @@
 
 [./Hackathon_Dev](https://github.com/oZep/oZep/blob/main/hackathon-dev.md)
 
-[./Game_Dev]
+[./LLM_Breakdown](https://github.com/oZep/oZep/blob/main/llm-breakdown.md)
 
 [./Computer_Vision](https://github.com/oZep/oZep/blob/main/computer-vision-proj.md)
 
-[./LLM_Breakdown](https://github.com/oZep/oZep/blob/main/llm-breakdown.md)
-
 [./Web_Dev]
+
+[./Game_Dev]

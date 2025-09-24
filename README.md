@@ -2,6 +2,7 @@
 
 ![Trophy Case](https://github-profile-trophy.vercel.app/?username=ozep&column=-1&theme=darkhub&no-frame=true)
 
+[./Hackathon_Dev]
 [./Game_Dev]
 [./Computer_Vision]
 [./LLM_Breakdown]

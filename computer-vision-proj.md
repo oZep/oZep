@@ -1,2 +1,2 @@
-(./ASL-Interperter)[https://github.com/oZep/ASL-Interpreter]
+[./ASL-Interperter](https://github.com/oZep/ASL-Interpreter)
 - Python, OpenCV, MediaPy

@@ -1,4 +1,4 @@
-[BACK]([https://github.com/oZep](https://github.com/oZep/oZep/blob/main/README.md)
+[BACK](https://github.com/oZep/oZep/blob/main/README.md)
 
 [./Timeframe](https://github.com/oZep/Timeframe)  
 - Second Place Winner of the Esports X GDC Game Jam (2024)  

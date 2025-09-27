@@ -1,4 +1,4 @@
-[BACK]([https://github.com/oZep](https://github.com/oZep/oZep/blob/main/README.md)
+[BACK](https://github.com/oZep/oZep/blob/main/README.md)
 
 [./QNX-Fighter](https://github.com/Batleram/qnx-fighter)
 - *1st Place Best use of QNX Hardware @ CUHacking 6* 

@@ -8,6 +8,4 @@
 
 [./Computer_Vision](https://github.com/oZep/oZep/blob/main/computer-vision-proj.md)
 
-[./Web_Dev]
-
-[./Game_Dev]
+[./Game_Dev](https://github.com/oZep/oZep/blob/main/game-dev-proj.md)

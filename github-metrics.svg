@@ -2352,7 +2352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pocketbase/pocketbase</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Source realtime backend in 1 file</div>
@@ -2405,7 +2405,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>servo/servo</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.</div>
@@ -2611,7 +2611,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Nov 2025, 10:12:03 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Nov 2025, 11:13:50 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

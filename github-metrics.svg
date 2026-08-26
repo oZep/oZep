@@ -226,7 +226,7 @@
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="774.8670482743801" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="774.8670482743801" y="0" width="38.43023149501837" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="774.8670482743801" y="0" width="38.43023149501837" height="8" fill="#7355dd"/>
                     <rect mask="url(#languages-bar)" x="813.2972797693984" y="0" width="28.956895766550677" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="842.2541755359491" y="0" width="22.671726518613" height="8" fill="#355570"/>
                     <rect mask="url(#languages-bar)" x="864.925902054562" y="0" width="18.5065541986804" height="8" fill="#b07219"/>
@@ -243,7 +243,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#7355dd" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C#
                     </div>
@@ -2604,7 +2604,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Aug 2026, 12:08:03 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Aug 2026, 14:45:43 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

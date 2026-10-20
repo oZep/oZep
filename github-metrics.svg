@@ -2352,7 +2352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spicetify/cli</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.</div>
@@ -2605,7 +2605,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Oct 2026, 20:00:46 (timezone America/Toronto) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 19 Oct 2026, 23:46:45 (timezone America/Toronto) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
